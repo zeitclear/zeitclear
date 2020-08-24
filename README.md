@@ -1,5 +1,1 @@
-## :sparkles: Here has a little bit of everything
-
-![enter image description here](https://i.giphy.com/media/hEc4k5pN17GZq/200.gif)
-#### Please, visit my [website](https://zeitarea.xyz/).  :heart:
-
+<span style="display: block; text-align: center">![enter image description here](https://cdn2.scratch.mit.edu/get_image/gallery/1231456_170x100.png)</span>
